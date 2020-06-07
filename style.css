@@ -1,0 +1,47 @@
+/*  adding style to HTML documents 's element through  passing styling sheet  */
+#s1{
+    color: #516705;; 
+    text-align: center; 
+}
+.new{
+    background-color: chartreuse;
+}
+a:hover{
+    background-attachment: blue;
+    background-color: blueviolet;
+}
+a:active{
+    color: chartreuse;
+}
+
+p {
+background-color: bisque;
+font-size: 25px;
+}
+p::first-letter{
+    font-style: italic ;
+   font-size: xx-large;
+}
+.lastpara{
+    border-width: 5px;border-color: white;border-style: groove;
+
+#b1
+{
+    background-color: #bdc3c7;
+}
+/* for orderd lsit */
+.l1
+{color: blue;
+}
+.l2{
+    color: blue;
+}
+a:visited{
+    background-color: green;
+}
+button{
+    background-color: blueviolet;
+}
+* { 
+    background-color: yellow;
+}
